@@ -5,7 +5,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688.svg)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Ginue AI** - 경인교육대학교의 혁신적인 AI 기반 마이크로티칭 분석 시스템
+> **Ginue AI** - 경인교육대학교 AI 기반 마이크로티칭 분석 시스템
 
 ![GAIM Lab v3.0](https://img.shields.io/badge/GAIM_Lab-v3.0-purple?style=for-the-badge)
 
